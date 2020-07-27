@@ -1,0 +1,20 @@
+D:\Sheru\uni\CAB201\assignment2\IndexSequence16s\IndexSequence16s\bin\Debug\IndexSequence16s.exe.config
+D:\Sheru\uni\CAB201\assignment2\IndexSequence16s\IndexSequence16s\bin\Debug\IndexSequence16s.exe
+D:\Sheru\uni\CAB201\assignment2\IndexSequence16s\IndexSequence16s\bin\Debug\IndexSequence16s.pdb
+D:\Sheru\uni\CAB201\assignment2\IndexSequence16s\IndexSequence16s\obj\Debug\IndexSequence16s.csprojResolveAssemblyReference.cache
+D:\Sheru\uni\CAB201\assignment2\IndexSequence16s\IndexSequence16s\obj\Debug\IndexSequence16s.exe
+D:\Sheru\uni\CAB201\assignment2\IndexSequence16s\IndexSequence16s\obj\Debug\IndexSequence16s.pdb
+f:\Sheru\uni\CAB201\assignment 2\IndexSequence16s\IndexSequence16s\bin\Debug\IndexSequence16s.exe.config
+f:\Sheru\uni\CAB201\assignment 2\IndexSequence16s\IndexSequence16s\bin\Debug\IndexSequence16s.exe
+f:\Sheru\uni\CAB201\assignment 2\IndexSequence16s\IndexSequence16s\bin\Debug\IndexSequence16s.pdb
+f:\Sheru\uni\CAB201\assignment 2\IndexSequence16s\IndexSequence16s\obj\Debug\IndexSequence16s.csprojAssemblyReference.cache
+f:\Sheru\uni\CAB201\assignment 2\IndexSequence16s\IndexSequence16s\obj\Debug\IndexSequence16s.csproj.CoreCompileInputs.cache
+f:\Sheru\uni\CAB201\assignment 2\IndexSequence16s\IndexSequence16s\obj\Debug\IndexSequence16s.exe
+f:\Sheru\uni\CAB201\assignment 2\IndexSequence16s\IndexSequence16s\obj\Debug\IndexSequence16s.pdb
+f:\Sheru\uni\CAB201\assignment 2\upload 1\IndexSequence16s\bin\Debug\IndexSequence16s.exe.config
+f:\Sheru\uni\CAB201\assignment 2\upload 1\IndexSequence16s\bin\Debug\IndexSequence16s.exe
+f:\Sheru\uni\CAB201\assignment 2\upload 1\IndexSequence16s\bin\Debug\IndexSequence16s.pdb
+f:\Sheru\uni\CAB201\assignment 2\upload 1\IndexSequence16s\obj\Debug\IndexSequence16s.csprojAssemblyReference.cache
+f:\Sheru\uni\CAB201\assignment 2\upload 1\IndexSequence16s\obj\Debug\IndexSequence16s.csproj.CoreCompileInputs.cache
+f:\Sheru\uni\CAB201\assignment 2\upload 1\IndexSequence16s\obj\Debug\IndexSequence16s.exe
+f:\Sheru\uni\CAB201\assignment 2\upload 1\IndexSequence16s\obj\Debug\IndexSequence16s.pdb

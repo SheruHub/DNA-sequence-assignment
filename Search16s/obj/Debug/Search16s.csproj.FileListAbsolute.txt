@@ -1,0 +1,20 @@
+F:\Sheru\uni\CAB201\assignment 1\search16s\Search16s\Search16s\bin\Debug\Search16s.exe.config
+F:\Sheru\uni\CAB201\assignment 1\search16s\Search16s\Search16s\bin\Debug\Search16s.exe
+F:\Sheru\uni\CAB201\assignment 1\search16s\Search16s\Search16s\bin\Debug\Search16s.pdb
+F:\Sheru\uni\CAB201\assignment 1\search16s\Search16s\Search16s\obj\Debug\Search16s.csprojAssemblyReference.cache
+F:\Sheru\uni\CAB201\assignment 1\search16s\Search16s\Search16s\obj\Debug\Search16s.csproj.CoreCompileInputs.cache
+F:\Sheru\uni\CAB201\assignment 1\search16s\Search16s\Search16s\obj\Debug\Search16s.exe
+F:\Sheru\uni\CAB201\assignment 1\search16s\Search16s\Search16s\obj\Debug\Search16s.pdb
+D:\Sheru\uni\CAB201\assignment2\Search16s\bin\Debug\Search16s.exe.config
+D:\Sheru\uni\CAB201\assignment2\Search16s\bin\Debug\Search16s.exe
+D:\Sheru\uni\CAB201\assignment2\Search16s\bin\Debug\Search16s.pdb
+D:\Sheru\uni\CAB201\assignment2\Search16s\obj\Debug\Search16s.csprojResolveAssemblyReference.cache
+D:\Sheru\uni\CAB201\assignment2\Search16s\obj\Debug\Search16s.exe
+D:\Sheru\uni\CAB201\assignment2\Search16s\obj\Debug\Search16s.pdb
+F:\Sheru\uni\CAB201\assignment 2\upload 1\Search16s\bin\Debug\Search16s.exe.config
+F:\Sheru\uni\CAB201\assignment 2\upload 1\Search16s\bin\Debug\Search16s.exe
+F:\Sheru\uni\CAB201\assignment 2\upload 1\Search16s\bin\Debug\Search16s.pdb
+F:\Sheru\uni\CAB201\assignment 2\upload 1\Search16s\obj\Debug\Search16s.csprojAssemblyReference.cache
+F:\Sheru\uni\CAB201\assignment 2\upload 1\Search16s\obj\Debug\Search16s.csproj.CoreCompileInputs.cache
+F:\Sheru\uni\CAB201\assignment 2\upload 1\Search16s\obj\Debug\Search16s.exe
+F:\Sheru\uni\CAB201\assignment 2\upload 1\Search16s\obj\Debug\Search16s.pdb
